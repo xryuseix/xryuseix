@@ -1,0 +1,1 @@
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=xryuseix&count_private=true&show_icons=true&theme=tokyonight" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xryuseix&layout=compact" />
