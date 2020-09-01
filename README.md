@@ -1,1 +1,2 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=xryuseix&count_private=true&show_icons=true&theme=tokyonight" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xryuseix&layout=compact" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=xryuseix)](https://github.com/ryo-ma/github-profile-trophy)
