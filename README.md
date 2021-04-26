@@ -58,7 +58,7 @@
 <a href="https://www.tensorflow.org" target="_blank"> <img src="languages_and_tools/tensorflow.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xryuseix&show_icons=true&locale=en&layout=compact&langs_count=8&exclude_repo=SA-Plag,AtCoder_Backup" alt="xryuseix" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xryuseix&show_icons=true&layout=compact&langs_count=8&exclude_repo=SA-Plag,AtCoder_Backup&hide=html,Makefile,css,Tex,CMake,SCSS" alt="xryuseix" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xryuseix&show_icons=true&locale=en&theme=tokyonight" alt="xryuseix" /></p>
 
