@@ -1,4 +1,9 @@
-[![Profile views](https://komarev.com/ghpvc/?username=xryuseix&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/xryuseix) [![SecHack365](Badges/SecHack365-2020-ffd700.svg)](https://sechack365.nict.go.jp/) [![AVTOKYO](Badges/AVTOKYO-2020-black.svg)](https://www.avtokyo.org/2020/)
+<div align="center">
+  <a href="https://github.com/xryuseix" target="blank"><img src="https://komarev.com/ghpvc/?username=xryuseix&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></a>
+  <a href="https://sechack365.nict.go.jp/" target="blank"><img src="Badges/SecHack365-2020-ffd700.svg" alt="SecHack365" /></a>
+  <a href="https://www.avtokyo.org/2020/" target="blank"><img src="Badges/AVTOKYO-2020-black.svg" alt="AVTOKYO" /></a>
+  <a href="https://twitter.com/ryusei_ishika" target="blank"><img src="https://img.shields.io/twitter/follow/ryusei_ishika?label=%40ryusei_ishika" alt="Twitter" /></a>
+</div>
 
 <h1 align="center">Hi 👋, I'm xryuseix</h1>
 <h3 align="center">Algorithm and Security developer from Japan</h3>
@@ -6,12 +11,6 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=xryuseix&column=7" alt="xryuseix" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/ryusei_ishika" target="blank">
-    <img src="https://img.shields.io/twitter/follow/ryusei_ishika?logo=twitter&style=for-the-badge" alt="ryusei_ishika" />
   </a>
 </p>
 
