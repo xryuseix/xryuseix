@@ -72,9 +72,9 @@
 
 <h3 align="left">Statistics:</h3>
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=xryuseix&layout=compact&langs_count=8&exclude_repo=SA-Plag,AtCoder_Backup,SecHack365-Dataset,&hide=html,Makefile,css,Tex,CMake,SCSS" alt="xryuseix" /><img width="58%" src="https://github-readme-stats.vercel.app/api?username=xryuseix&show_icons=true&locale=en&theme=tokyonight" alt="xryuseix" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=xryuseix&layout=compact&langs_count=8&exclude_repo=SA-Plag,AtCoder_Backup,SecHack365-Dataset,&hide=html,Makefile,css,Tex,CMake,SCSS&theme=tokyonight" alt="xryuseix" /><img width="58%" src="https://github-readme-stats.vercel.app/api?username=xryuseix&show_icons=true&locale=en&theme=tokyonight" alt="xryuseix" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xryuseix&" alt="xryuseix" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xryuseix&theme=highcontrast" alt="xryuseix" />
 </div>
