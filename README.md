@@ -48,13 +48,13 @@
 </div>
 <h5 align="left">Programming Languages</h5>
 <div align="left" style="font-size:2em">
-  <a href="https://www.arduino.cc/" target="_blank"> <img src="languages_and_tools/arduino.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="languages_and_tools/cplusplus.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="languages_and_tools/cplusplus.png" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://dart.dev" target="_blank"> <img src="languages_and_tools/dart.svg" alt="dart" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="languages_and_tools/javascript.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="languages_and_tools/python.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="languages_and_tools/ruby.svg" alt="ruby" width="40" height="40"/> </a>
   <a href="https://www.rust-lang.org" target="_blank"> <img src="languages_and_tools/rust.svg" alt="rust" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="languages_and_tools/typescript.png" alt="typescript" width="40" height="40"/> </a>
 </div>
 <h5 align="left">Frameworks and Libraries</h5>
 <div align="left">
@@ -72,7 +72,7 @@
 
 <h3 align="left">Statistics:</h3>
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=xryuseix&layout=compact&langs_count=8&exclude_repo=SA-Plag,AtCoder_Backup,SecHack365-Dataset,&hide=html,Makefile,css,Tex,CMake,SCSS&theme=tokyonight" alt="xryuseix" /><img width="58%" src="https://github-readme-stats.vercel.app/api?username=xryuseix&show_icons=true&locale=en&theme=tokyonight" alt="xryuseix" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=xryuseix&layout=compact&langs_count=10&exclude_repo=SA-Plag,AtCoder_Backup,SecHack365-Dataset,&hide=html,Makefile,css,Tex,CMake,SCSS,C&theme=tokyonight" alt="xryuseix" /><img width="58%" src="https://github-readme-stats.vercel.app/api?username=xryuseix&show_icons=true&locale=en&theme=tokyonight" alt="xryuseix" />
 </div>
 
 <div align="center">
