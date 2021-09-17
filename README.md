@@ -27,7 +27,7 @@
 - 📄 Know about my experiences **[https://xryuseix.github.io](https://xryuseix.github.io)**
 
 <h3 align="left">Connect with me:</h3>
-<div align="left">
+<div align="left" style="background-color:#f1f1f1; width:19.5em; text-align:center" >
   <a href="https://twitter.com/ryusei_ishika" target="blank"><img align="center" src="connect_with_me/twitter.svg" alt="ryusei_ishika" height="30" width="40" /></a>
   <a href="https://www.slideshare.net/ishikawaryusei" target="blank"><img align="center" src="connect_with_me/linkdin.svg" alt="https://www.slideshare.net/ishikawaryusei" height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=100010586593125" target="blank"><img align="center" src="connect_with_me/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010586593125" height="30" width="40" /></a>
