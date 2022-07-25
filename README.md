@@ -14,7 +14,7 @@
   </a>
   <br />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=xryuseix&theme=onedark&rank=SSS,SS,S,AAA,AA,A&column=5" alt="xryuseix" />
+    <img src="https://github-profile-trophy.vercel.app/?username=xryuseix&theme=onedark&rank=SSS,SS,S,AAA,AA,A&column=６" alt="xryuseix" />
   </a>
 </div>
 
