@@ -18,7 +18,7 @@
   </a>
 </div>
 
-- 🌱 I’m currently working on **[paiza, Inc.](https://paiza.jp/)** (student writer)
+<!-- - 🌱 I’m currently working on **[paiza, Inc.](https://paiza.jp/)** (student writer) -->
 
 - 📢 I regularly write articles on **[https://xryuseix.hatenablog.com](https://xryuseix.hatenablog.com)**
 
