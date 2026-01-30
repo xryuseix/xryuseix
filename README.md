@@ -1,7 +1,5 @@
 <div align="center">
   <a href="https://github.com/xryuseix" target="blank"><img src="https://komarev.com/ghpvc/?username=xryuseix&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></a>
-  <a href="https://sechack365.nict.go.jp/" target="blank"><img src="Badges/SecHack365-2020-ffd700.svg" alt="SecHack365" /></a>
-  <a href="https://www.avtokyo.org/2020/" target="blank"><img src="Badges/AVTOKYO-2020-black.svg" alt="AVTOKYO" /></a>
   <a href="https://twitter.com/ryusei_ishika" target="blank"><img src="https://img.shields.io/twitter/follow/ryusei_ishika?label=%40ryusei_ishika" alt="Twitter" /></a>
 </div>
 
