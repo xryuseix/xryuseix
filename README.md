@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **[https://twitter.com/ryusei_ishika](https://twitter.com/ryusei_ishika)**
 
-- 📄 Know about my experiences **[https://xryuseix.github.io](https://xryuseix.github.io)**
+- 📄 Know about my experiences **[https://xryuseix.github.io](https://ryuse.dev)**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left" style="background-color:#f1f1f1; width:19.5em; text-align:center" >
